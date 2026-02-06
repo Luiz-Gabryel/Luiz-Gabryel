@@ -10,10 +10,6 @@
 
 ###
 
-<h1 align="center">Olá 👋</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -42,7 +38,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
@@ -51,6 +47,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Luiz-Gabryel/Luiz-Gabryel/output/snake.svg" alt="Snake animation" />
 
