@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+New+Zealand+Basic&pause=1000&color=FF00F6&repeat=false&width=435&lines=Ol%C3%A1%2C+Eu+sou+Luiz+Gabryel!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00F6&width=435&lines=Ol%C3%A1%2C+Eu+sou+Luiz+Gabryel!)](https://git.io/typing-svg))
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
