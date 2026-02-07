@@ -38,12 +38,27 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Luiz-Gabryel&show_icons=true&include_all_commits=true&count_private=true&title_color=FF00F6&icon_color=FF00F6&text_color=FFFFFF&bg_color=0d1117&border_color=FF00F6)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Gabryel&layout=compact&langs_count=10&title_color=FF00F6&text_color=FFFFFF&bg_color=0d1117&border_color=FF00F6)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Luiz-Gabryel&stroke=FF00F6&ring=FF00F6&fire=FF00F6&currStreakLabel=FF00F6&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&background=0d1117&border=FF00F6)
-
+<!-- GRS (Light Mode) -->
+<a href="https://github.com/qwerty541#gh-light-mode-only">
+  <table cellspacing="0" cellpadding="0">
+    <tr>
+      <td style="border: 0;">
+          <img
+            src="https://github-readme-stats-steel-omega.vercel.app/api?username=qwerty541&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&disable_animations=true#gh-light-mode-only"
+            alt="My Github stats"
+            height="370"
+          />
+      </td>
+      <td style="border: 0;">
+          <img
+            src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=qwerty541&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Langs%20distribution%20in%20my%20repos&disable_animations=true#gh-light-mode-only"
+            alt="My Language stats"
+            width="280"
+          />
+      </td>
+    </tr>
+  </table>
+</a>
 ## 🏆 GitHub Views
 <div align="center">
   <img src="https://count.getloli.com/@:Luiz-Gabryel?theme=booru-helltaker&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
