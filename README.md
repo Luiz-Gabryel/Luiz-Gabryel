@@ -37,13 +37,13 @@
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo" />
 </div>
 
-  
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Luiz-Gabryel&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Luiz-Gabryel&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Gabryel&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Luiz-Gabryel&show_icons=true&title_color=FF00F6&icon_color=FF00F6&text_color=FFFFFF&bg_color=0d1117&border_color=FF00F6&ring_color=FF00F6&include_all_commits=true&count_private=true)<br/>
 
+![](https://nirzak-streak-stats.vercel.app/?user=Luiz-Gabryel&stroke=FF00F6&ring=FF00F6&fire=FF00F6&currStreakLabel=FF00F6&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&background=0d1117&border=FF00F6)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Gabryel&title_color=FF00F6&text_color=FFFFFF&bg_color=0d1117&border_color=FF00F6&layout=compact)
 
 ## 🏆 GitHub Views
 <div align="center">
