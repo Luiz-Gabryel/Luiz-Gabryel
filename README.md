@@ -12,8 +12,10 @@ My name is Luiz.<br><br>- I study Systems Development.<br><br>- I am currently l
 ![](https://nirzak-streak-stats.vercel.app/?user=Luiz-Gabryel&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Gabryel&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Luiz-Gabryel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub Views
+<div align="center">
+  <img src="https://count.getloli.com/@:Luiz-Gabryel?theme=booru-helltaker&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Luiz-Gabryel&limit=5&theme=radical&combine_all_yearly_contributions=true)
@@ -21,4 +23,4 @@ My name is Luiz.<br><br>- I study Systems Development.<br><br>- I am currently l
 ---
 [![](https://visitcount.itsvg.in/api?id=Luiz-Gabryel&icon=10&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Que que eu to fazendo -->
