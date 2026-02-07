@@ -44,6 +44,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Luiz-Gabryel&stroke=FF00F6&ring=FF00F6&fire=FF00F6&currStreakLabel=FF00F6&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&background=0d1117&border=FF00F6)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Gabryel&layout=compact&title_color=FF00F6&text_color=FFFFFF&bg_color=0d1117&border_color=FF00F6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Gabryel&layout=compact&langs_count=10&include_all_commits=true&count_private=true&title_color=FF00F6&text_color=FFFFFF&bg_color=0d1117&border_color=FF00F6)
+
 
 
 ## 🏆 GitHub Views
