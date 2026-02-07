@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Luiz.<br><br>- I study Systems Development.<br><br>- I am currently learning Python.
+My name is Luiz.<br><br>- I study Systems Development.<br><br>- Currently learning Python
 
 
 ## 🌐 Socials:
