@@ -31,4 +31,10 @@
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo" />
 </div>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luiz-gabryel/luiz-gabryel/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luiz-gabryel/luiz-gabryel/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luiz-gabryel/luiz-gabryel/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!-- Que que eu to fazendo -->
