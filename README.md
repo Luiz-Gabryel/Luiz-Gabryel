@@ -2,11 +2,6 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
-#
-
-# 💫 About Me:
-<br>- I study Systems Development.<br><br>- Currently learning Python
-
 ## 🌐 Socials:
 <div align="left">
   <a href="https://discord.com/users/hmmmm7857" target="_blank" rel="noopener noreferrer">
@@ -36,29 +31,6 @@
   <img src="https://skillicons.dev/icons?i=unity" height="40" />
 </div>
 
-# 📊 GitHub Stats:
-
-<!-- GRS (Light Mode) -->
-<a href="https://github.com/qwerty541#gh-light-mode-only">
-  <table cellspacing="0" cellpadding="0">
-    <tr>
-      <td style="border: 0;">
-          <img
-            src="https://github-readme-stats-steel-omega.vercel.app/api?username=qwerty541&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&disable_animations=true#gh-light-mode-only"
-            alt="My Github stats"
-            height="370"
-          />
-      </td>
-      <td style="border: 0;">
-          <img
-            src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=qwerty541&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Langs%20distribution%20in%20my%20repos&disable_animations=true#gh-light-mode-only"
-            alt="My Language stats"
-            width="280"
-          />
-      </td>
-    </tr>
-  </table>
-</a>
 ## 🏆 GitHub Views
 <div align="center">
   <img src="https://count.getloli.com/@:Luiz-Gabryel?theme=booru-helltaker&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
