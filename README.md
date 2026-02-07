@@ -3,11 +3,18 @@ My name is Luiz.<br><br>- I study Systems Development.<br><br>- I am currently l
 
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luizgabryel515@gmail.com) 
+<div align="left">
+  <a href="https://discord.com/users/hmmmm7857" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="luizgabryel515@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
 # 💻 Tech Stack:
 
-<div align="center">
+<
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
@@ -19,14 +26,14 @@ My name is Luiz.<br><br>- I study Systems Development.<br><br>- I am currently l
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
-</div
+
   
 # 📊 GitHub Stats:
-<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=Luiz-Gabryel&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Luiz-Gabryel&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Gabryel&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
+
 
 ## 🏆 GitHub Views
 <div align="center">
