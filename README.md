@@ -22,9 +22,11 @@ My name is Luiz.<br><br>- I study Systems Development.<br><br>- I am currently l
 </div
   
 # 📊 GitHub Stats:
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Luiz-Gabryel&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Luiz-Gabryel&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Gabryel&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ## 🏆 GitHub Views
 <div align="center">
