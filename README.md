@@ -5,7 +5,7 @@ My name is Luiz.<br><br>- I study Systems Development.<br><br>- Currently learni
 ## 🌐 Socials:
 <div align="left">
   <a href="https://discord.com/users/hmmmm7857" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/>
   </a>
  <a href="mailto:luizgabryel515@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/Luiz-Gabryel/Desenvolvimento-de-Sistema/2fa49d2acdd1f788e4521b3b51c712d5cf4d5e89/Gmailicon.svg"
