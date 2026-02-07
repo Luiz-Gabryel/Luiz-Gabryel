@@ -6,12 +6,15 @@
 - I study Systems Development.
 - Currently learning Python.
 
-## 🌐 Socials:
-<div align="left">
-  <a href="https://discord.com/users/hmmmm7857" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/>
-  </a>
- [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:luizgabryel515@gmail.com)
+#
+
+<img align="right" alt="" height="190px" src="https://github.com/Luiz-Gabryel/Luiz-Gabryel/blob/main/study.gif">
+
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:luizgabryel515@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/luiz-gabryel/)
+
 # 💻 Tech Stack:
   
 <div>
