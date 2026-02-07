@@ -7,7 +7,6 @@
 # 💫 About Me:
 <br>- I study Systems Development.<br><br>- Currently learning Python
 
-
 ## 🌐 Socials:
 <div align="left">
   <a href="https://discord.com/users/hmmmm7857" target="_blank" rel="noopener noreferrer">
@@ -24,22 +23,26 @@
 # 💻 Tech Stack:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo" />
+  <img src="https://skillicons.dev/icons?i=unity" height="40" />
 </div>
 
 # 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=Luiz-Gabryel&stroke=FF00F6&ring=FF00F6&fire=FF00F6&currStreakLabel=FF00F6&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&background=0d1117&border=FF00F6)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Luiz-Gabryel&show_icons=true&include_all_commits=true&count_private=true&title_color=FF00F6&icon_color=FF00F6&text_color=FFFFFF&bg_color=0d1117&border_color=FF00F6)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Gabryel&layout=compact&langs_count=10&title_color=FF00F6&text_color=FFFFFF&bg_color=0d1117&border_color=FF00F6)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Luiz-Gabryel&stroke=FF00F6&ring=FF00F6&fire=FF00F6&currStreakLabel=FF00F6&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&background=0d1117&border=FF00F6)
 
 ## 🏆 GitHub Views
 <div align="center">
@@ -47,9 +50,7 @@
 </div>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Luiz-Gabryel&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Luiz-Gabryel&limit=5&title_color=FF00F6&text_color=FFFFFF&bg_color=0d1117&border_color=FF00F6&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Luiz-Gabryel&icon=10&color=4)](https://visitcount.itsvg.in)
-
-<!-- Que que eu to fazendo -->
+[![](https://visitcount.itsvg.in/api?id=Luiz-Gabryel&icon=10&color=FF00F6)](https://visitcount.itsvg.in)
