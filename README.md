@@ -17,7 +17,7 @@ My name is Luiz.<br><br>- I study Systems Development.<br><br>- I am currently l
 
 # 💻 Tech Stack:
 
-
+<
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
