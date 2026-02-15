@@ -58,5 +58,5 @@
 </picture>
 
 <div align="center">
-  <i>"Feito com ♥, muitos erros e café forte." 🚀</i>
+  <i>"Feito com ♥, muitos erros e café forte."</i>
 </div>
