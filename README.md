@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00F6&width=435&lines=Ol%C3%A1%2C+Eu+sou+Luiz+Gabryel!)](https://git.io/typing-svg)
-<-- pokemon -->
+<!-- pokemon-->
 <div align="center">
   <img src="https://github.com/Luiz-Gabryel/Luiz-Gabryel/blob/main/poke.gif" alt="Pikachu coding" width="180"/>
 </div>
@@ -44,7 +44,7 @@
   Sistema simples em Python para cadastrar, listar e gerenciar livros(console). Projeto prático do curso!
 
 - **[Portfólio Pessoal](https://luizgabryel.netlify.app/)**  
-  Meu site pessoal (Ainda em evolução, mas já tá no ar!)
+  Meu site pessoal (Ainda em evolução, mas já tá no ar)
 
 - **[Repositório do Curso Técnico](https://github.com/luiz-gabryel/Desenvolvimento-de-Sistema)**  
   Todos os materiais, exercícios e desafios do curso de Desenvolvimento de Sistemas.
