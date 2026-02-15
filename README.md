@@ -1,13 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00F6&width=435&lines=Ol%C3%A1%2C+Eu+sou+Luiz+Gabryel!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&color=FF00F6\&width=435\&lines=Hello%2C+I’m+Luiz+Gabryel!)](https://git.io/typing-svg)
 
-## 💫 Sobre Mim
+## 💫 About Me
 
 <img src="https://github.com/Luiz-Gabryel/Luiz-Gabryel/blob/main/poke.gif" align="right" width="180"/>
 
-* 🎓 Estudante de **Desenvolvimento de Sistemas** (técnico)
-* 🐍 Focado em **Python** (lógica de programação, automação e projetos práticos)
+* 🎓 Student in a **Systems Development** technical program
+* 🐍 Focused on **Python** (programming logic, automation, and hands-on projects)
 
-## 📬 Conecte-se comigo!
+## 📬 Connect with Me!
 
 <div align="center">
   <a href="mailto:luizgabryel515@gmail.com">
@@ -21,7 +21,7 @@
   </a>
 </div>
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
@@ -36,18 +36,18 @@
 
 <br>
 
-## 🔥 Projetos em Destaque
+## 🔥 Featured Projects
 
-- **[Controle de Estoque de Livros](https://github.com/Luiz-Gabryel/Desenvolvimento-de-Sistema/tree/main/python/feito-por-Luiz/curso-tecnico/python/desafios/controle-estoque)**  
-  Sistema simples em Python para cadastrar, listar e gerenciar livros(console). Projeto prático do curso!
+* **[Book Inventory Control](https://github.com/Luiz-Gabryel/Desenvolvimento-de-Sistema/tree/main/python/feito-por-Luiz/curso-tecnico/python/desafios/controle-estoque)**
+  A simple Python system to register, list, and manage books (console-based). A hands-on project from my course.
 
-- **[Portfólio Pessoal](https://luizgabryel.netlify.app/)**  
-  Meu site pessoal (Ainda em evolução, mas já tá no ar)
+* **[Personal Portfolio](https://luizgabryel.netlify.app/)**
+  My personal website (still evolving, but already live).
 
-- **[Repositório do Curso Técnico](https://github.com/luiz-gabryel/Desenvolvimento-de-Sistema)**  
-  Todos os materiais, exercícios e desafios do curso de Desenvolvimento de Sistemas.
+* **[Technical Course Repository](https://github.com/luiz-gabryel/Desenvolvimento-de-Sistema)**
+  All materials, exercises, and challenges from my Systems Development course.
 
-## 📊 Minhas Contribuições
+## 📊 My Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luiz-gabryel/luiz-gabryel/output/github-contribution-grid-snake-dark.svg">
@@ -56,5 +56,5 @@
 </picture>
 
 <div align="center">
-  <i>"Feito com ♥, muitos erros e café forte."</i>
+  <i>"Made with ♥, lots of mistakes, and strong coffee."</i>
 </div>
