@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00F6&width=435&lines=Ol%C3%A1%2C+Eu+sou+Luiz+Gabryel!)](https://git.io/typing-svg)
-
+<-- pokemon -->
 <div align="center">
   <img src="https://github.com/Luiz-Gabryel/Luiz-Gabryel/blob/main/poke.gif" alt="Pikachu coding" width="180"/>
 </div>
