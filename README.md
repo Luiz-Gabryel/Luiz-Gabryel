@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&color=FF00F6\&width=435\&lines=Hello%2C+I’m+Luiz+Gabryel!)](https://git.io/typing-svg)
-
+<!-- socorro -->
 ## 💫 About Me
 
 <img src="https://github.com/Luiz-Gabryel/Luiz-Gabryel/blob/main/poke.gif" align="right" width="180"/>
