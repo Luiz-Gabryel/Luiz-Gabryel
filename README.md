@@ -37,7 +37,7 @@
 * **[Book Inventory Control](https://github.com/Luiz-Gabryel/Desenvolvimento-de-Sistema/tree/main/luiz-gabryel/curso-tecnico/python/desafios/controle-estoque)**
   A simple Python system to register, list, and manage books (console-based). A hands-on project from my course.
 
-* **[Personal Portfolio](https://luizgabryel.netlify.app/)**
+* **[Personal Portfolio](https://luiz-gabryel.vercel.app/)**
   My personal website (still evolving, but already live).
 
 * **[Technical Course Repository](https://github.com/luiz-gabryel/Desenvolvimento-de-Sistema)**
