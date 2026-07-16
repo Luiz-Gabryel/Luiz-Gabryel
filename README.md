@@ -1,12 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&color=FF00F6\&width=435\&lines=Hello%2C+I'm+Luiz+Gabryel!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00F6&width=435&lines=Ol%C3%A1%2C+eu+sou+Luiz+Gabryel!)](https://git.io/typing-svg)
+
 <!-- socorro -->
-## 💫 About Me
+
+## 💫 Sobre Mim
 <img src="https://github.com/Luiz-Gabryel/Luiz-Gabryel/blob/main/poke.gif" align="right" width="180"/>
 
-* 🎓 Student in a **Systems Development** technical program
-* 🐍 Focused on **Python** (programming logic, automation, and hands-on projects)
+- 🎓 Estudante do curso técnico em **Desenvolvimento de Sistemas**
+- 🐍 Focado em **Python**, estudando lógica de programação, automação e desenvolvimento de projetos
+- 💻 Sempre buscando aprender novas tecnologias e colocar o conhecimento em prática
 
-## 📬 Connect with Me!
+## 📬 Entre em Contato!
 <div align="center">
   <a href="mailto:luizgabryel515@gmail.com">
     <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00D9FF" alt="Email"/>
@@ -19,7 +22,7 @@
   </a>
 </div>
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tecnologias & Ferramentas
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
   <img width="15"/>
@@ -28,20 +31,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
   <img width="15"/>
 </div>
+
 <br>
 
-## 🔥 Featured Projects
+## 🔥 Projetos em Destaque
 
-* **[Book Inventory Control](https://github.com/Luiz-Gabryel/Desenvolvimento-de-Sistema/tree/main/luiz-gabryel/curso-tecnico/python/desafios/controle-estoque)**
-  A simple Python system to register, list, and manage books (console-based). A hands-on project from my course.
+- **[Controle de Estoque de Livros](https://github.com/Luiz-Gabryel/Desenvolvimento-de-Sistema/tree/main/luiz-gabryel/curso-tecnico/python/desafios/controle-estoque)**  
+  Sistema desenvolvido em Python para cadastrar, listar e gerenciar livros pelo terminal.
 
-* **[Personal Portfolio](https://luiz-gabryel.vercel.app/)**
-  My personal website (still evolving, but already live).
+- **[Portfólio](https://luiz-gabryel.vercel.app/)**  
+  Site que reúne meus projetos, experiências e links importantes.
 
-* **[Technical Course Repository](https://github.com/luiz-gabryel/Desenvolvimento-de-Sistema)**
-  All materials, exercises, and challenges from my Systems Development course.
+- **[Repositório do Curso Técnico](https://github.com/luiz-gabryel/Desenvolvimento-de-Sistema)**  
+  Exercícios, desafios e projetos desenvolvidos durante o curso técnico em Desenvolvimento de Sistemas.
 
-## 📊 My Contributions
+## 📊 Minhas Contribuições
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luiz-gabryel/luiz-gabryel/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luiz-gabryel/luiz-gabryel/output/github-contribution-grid-snake.svg">
@@ -49,5 +54,5 @@
 </picture>
 
 <div align="center">
-  <i>"Made with ♥, lots of mistakes, and strong coffee."</i>
+  <i>"Feito com ❤️, muitos erros e muito café."</i>
 </div>
