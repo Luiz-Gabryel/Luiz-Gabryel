@@ -6,7 +6,7 @@
 <img src="https://github.com/Luiz-Gabryel/Luiz-Gabryel/blob/main/poke.gif" align="right" width="180"/>
 
 - 🎓 Estudante do curso técnico em **Desenvolvimento de Sistemas**
-- 🐍 Tenho **Python** como linguagem principal e também estudo **Java** e desenvolvimento Web
+- 🐍 Tenho **Java** como linguagem principal e também estudo **Python** e desenvolvimento Web
 - 💻 Gosto de criar projetos para praticar programação e aprender novas tecnologias
 
 ## 📬 Entre em Contato!
