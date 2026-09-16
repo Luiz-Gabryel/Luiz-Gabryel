@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00F6&width=435&lines=Ol%C3%A1%2C+eu+sou+Luiz+Gabryel!)](https://git.io/typing-svg)
 
-<!-- socorro -->
-
 ## 💫 Sobre Mim
 <img src="https://github.com/Luiz-Gabryel/Luiz-Gabryel/blob/main/poke.gif" align="right" width="180"/>
 
@@ -70,5 +68,5 @@
 </picture>
 
 <div align="center">
-  <i>"Feito com ❤️, muitos erros e muito café."</i>
+  <img src="https://komarev.com/ghpvc/?username=luiz-gabryel&abbreviated=true&color=blueviolet" alt="visitor badge"/>
 </div>
