@@ -48,16 +48,6 @@
 
 <br>
 
-## 🔥 Projetos em Destaque
-
-- **[Controle de Estoque de Livros](https://github.com/Luiz-Gabryel/Desenvolvimento-de-Sistema/tree/main/luiz-gabryel/curso-tecnico/python/desafios/controle-estoque)**  
-  Sistema desenvolvido em Python para cadastrar, listar e gerenciar livros pelo terminal.
-
-- **[Portfólio](https://luiz-gabryel.vercel.app/)**  
-  Site que reúne todos os meus projetos, experiências e links importantes.
-
-- **[Repositório do Curso Técnico](https://github.com/Luiz-Gabryel/Desenvolvimento-de-Sistema)**  
-  Exercícios, desafios e projetos desenvolvidos durante o curso técnico em Desenvolvimento de Sistemas.
 
 ## 📊 Minhas Contribuições
 
